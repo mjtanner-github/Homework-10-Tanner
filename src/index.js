@@ -102,7 +102,7 @@ const run = () => {
         return answers;    
     })
     .then(() => {
-        fs.writeFileSync('dist/index.html', generateHTML(newTeamMember));
+        fs.writeFileSync('../dist/index.html', generateHTML(newTeamMember)); // ✪ ✪ ✪ ✪ ✪ ✪ ✪ ✪ ✌✌✌✌✌✌
         console.log("HTML file (dist/index.html) written."); 
     })
     .then(() => exitPrompt())
