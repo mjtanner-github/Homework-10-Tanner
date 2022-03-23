@@ -1,4 +1,9 @@
 # Team Profiler
+
+
+[Demonstration Video](https://www.youtube.com/watch?v=mPjA-UCACf8)
+
+
 ## Description
 This application takes team member contact information from the command line and displace it graphically according to a prescribed format.
 ## Movitavtion
