@@ -1,8 +1,8 @@
 # Team Profiler
 
-
-[Demonstration Video](https://www.youtube.com/watch?v=mPjA-UCACf8)
-
+[GitHib Repository](https://github.com/mjtanner-github/Homework-10-Tanner)  
+[Demonstration Video](https://www.youtube.com/watch?v=mPjA-UCACf8)  
+[Sample HTML Output](./dist/index.html)  
 
 ## Description
 This application takes team member contact information from the command line and displace it graphically according to a prescribed format.
